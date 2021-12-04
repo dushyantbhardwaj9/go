@@ -1,1 +1,2 @@
-Writing programs in Go for Practice
+# Go
+Go Practice Programs
